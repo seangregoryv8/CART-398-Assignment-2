@@ -18,7 +18,7 @@ The dataset we are using is the ["WikiArt Art Movements/Styles"](https://www.kag
 
 ### Under what circumstances did the model fail? Do you have a hint on why it fails?
 
-### Which classes and class types were difficult to train? HOw did you overcome the issue?
+### Which classes and class types were difficult to train? How did you overcome the issue?
 
 ### Was it difficult to achieve good performance while increasing the number of classes? If so, why?
 
