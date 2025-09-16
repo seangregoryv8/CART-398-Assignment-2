@@ -25,3 +25,5 @@ It was difficult to maintain a good performance once the machine became more com
 When we tried adding noise, by using our phones to show images to the machine, it did become a bit more innacurate. It did have similar results as without noise, but you could see that the machine was changing hesitant to put anything at 100% certainty.
 
 It was most suprising, or maybe not that suprising, that the model did best at learning faces. With very few examples, we were able to have it identify not only our faces, but sometimes it saw faces in the art itself. It is both a showcase of the strenght of facial recognition as well as the quality of the artwork, for a face to be seen.
+
+Overall, despite trying our best to choose distinct art styles, it demonstrates how difficult training a machine to detect these varieties actually is. A trained artist, or even untrained, could detect the varieties, but finding the differences with AI showcases a different way of thinking that is needed to achieve this success.
